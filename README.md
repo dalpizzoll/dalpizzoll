@@ -11,7 +11,7 @@ Atuo na interseção entre a infraestrutura elétrica de campo, eletrônica, mec
 #### **Sistemas Embarcados & Programação**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
@@ -23,20 +23,21 @@ Atuo na interseção entre a infraestrutura elétrica de campo, eletrônica, mec
 #### **Engenharia de Automação & Elétrica**
 - ⚡ **Comandos Elétricos, Força e Controle:** Instalações industriais, proteção de motores e circuitos de manobra.
 - 📐 **Teoria do Controle:** Modelagem dinâmica em malha fechada, sintonia de controladores e intertravamento de segurança (*Safety Interlock*).
-- 🧪 **Simulação de Processos:** Dosagem, batelada, controle de pH, velocidade angular e telemetria industrial.
+- 🧪 **Simulação de Processos:** Dosagem, batelada, triagem por sensoriamento, controle de pH, velocidade angular e telemetria industrial.
 
 ---
 
 ### 📌 Projetos em Destaque
 
-- **[Sistema IoT de Telemetria e RPC (ThingsBoard)](https://github.com/seu-usuario/link-do-repo):** Nó IoT em MicroPython (ESP32) integrado via MQTT para monitoramento e controle remoto de atuadores de volume/vazão.
-- **[Intertravamento de Segurança de pH em C](https://github.com/seu-usuario/link-do-repo):** Sistema embarcado em C com alocação dinâmica de memória (`malloc`/`free`) e bloqueio de emergência orientado a redundância de sensores.
-- **[Relógio Binário BCD NeoPixel](https://github.com/seu-usuario/link-do-repo):** Acionamento de anel LED WS2812B com sincronização NTP e mapeamento BCD de 16 bits em MicroPython.
-- **[Controle de Velocidade Motor DC (50 rad/s)](https://github.com/seu-usuario/link-do-repo):** Modelagem matemática e malha fechada em Arduino fixado na referência de 50 rad/s.
+- **[Sistema de Triagem Óptica e Classificação por Cor](https://github.com/gabrieldalpizzol/triagem-optica-cores):** Esteira seletora automatizada em MicroPython (ESP32) integrando sensor TCS230, barreira ultrassônica HC-SR04, atuadores servo-motores, confirmação por TCRT5000 e controle/telemetria em tempo real via MQTT/RPC no ThingsBoard.
+- **[Sistema IoT de Telemetria e RPC (ThingsBoard)](https://github.com/gabrieldalpizzol/sistema-iot-volume):** Nó IoT em MicroPython (ESP32) integrado via MQTT para monitoramento e controle remoto de atuadores de volume/vazão.
+- **[Intertravamento de Segurança de pH em C](https://github.com/gabrieldalpizzol/intertravamento-ph-c):** Sistema embarcado em C com alocação dinâmica de memória (`malloc`/`free`) e bloqueio de emergência orientado à redundância de sensores.
+- **[Relógio Binário BCD NeoPixel](https://github.com/gabrieldalpizzol/relogio-bcd-neopixel):** Acionamento de anel LED WS2812B com sincronização NTP e mapeamento BCD de 16 bits em MicroPython.
+- **[Controle de Velocidade Motor DC (50 rad/s)](https://github.com/gabrieldalpizzol/controle-motor-dc):** Modelagem matemática e malha fechada em Arduino fixado na referência de 50 rad/s.
 
 ---
 
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldalpizzol)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldalpizzol1@gmai.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldalpizzol1@gmail.com)
